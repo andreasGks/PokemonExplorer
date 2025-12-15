@@ -1,7 +1,6 @@
 # Poké Explorer App 📱
 
-A modern Android application developed as part of the technical assignment for the **Junior Android Developer** position. The app fetches and displays Pokémon data based on specific types, leveraging **Clean Architecture** and an **Offline-First** approach.
-
+"A fully functional Pokémon Explorer app built with Jetpack Compose. It features real-time data fetching, local caching, and type-based filtering, engineered with Clean Architecture and an Offline-First approach."
 ## 🎥 Features
 
 * **Browse by Type:** Filter Pokémon by 10 different elemental types (Fire, Water, Grass, etc.).
